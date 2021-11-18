@@ -42,13 +42,6 @@ public class RecyclerElementosFragment extends Fragment {
         elementosViewModel = new ViewModelProvider(requireActivity()).get(ElementosViewModel.class);
         navController = Navigation.findNavController(view);
 
-        binding.irANuevoElemento.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                navController.navigate(R.id.action_recyclerElementosFragment_to_nuevoElementoFragment);
-            }
-        });
-
         ElementosAdapter elementosAdapter = new ElementosAdapter();
 
         binding.recyclerView.setAdapter(elementosAdapter);

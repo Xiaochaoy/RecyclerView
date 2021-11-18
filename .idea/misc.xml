@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/chaos/AndroidStudioProjects/Recyclerview/app/src/main/res/layout/fragment_recycler_elementos.xml" value="0.125" />
         <entry key="..\:/Users/chaos/Downloads/recyclerview-master/recyclerview-master/app/src/main/res/layout/activity_main.xml" value="0.15353260869565216" />
         <entry key="..\:/Users/chaos/Downloads/recyclerview-master/recyclerview-master/app/src/main/res/layout/fragment_mostrar_elemento.xml" value="0.15172101449275363" />
         <entry key="..\:/Users/chaos/Downloads/recyclerview-master/recyclerview-master/app/src/main/res/layout/fragment_nuevo_elemento.xml" value="0.2" />
